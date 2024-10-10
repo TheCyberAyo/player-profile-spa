@@ -1,0 +1,12 @@
+.home {
+    background-image: url(../images/SoccerBest.jpeg); /* Adjust the path as necessary */
+    background-size: cover; /* Optional: cover the entire div */
+    background-repeat: no-repeat; /* Optional: prevent repeating */
+    background-position: center; /* Optional: center the image */
+    height: 100vh; /* Optional: adjust height as needed */
+    color: white; /* Optional: text color for better visibility */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
