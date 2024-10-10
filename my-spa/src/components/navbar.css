@@ -1,0 +1,29 @@
+
+.navbar {
+    background-color: yellowgreen;
+    padding: 10px;
+}
+
+.navbar-list {
+    list-style-type: none; /* Remove default list styling */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    display: flex; 
+    justify-content: center;
+}
+
+.navbar-item {
+    margin-right: 50px; /* Space between items */
+}
+
+.navbar-item a {
+    color: white; /* Text color */
+    text-decoration: none; /* Remove underline */
+    padding: 8px 16px; /* Add some padding */
+    border-radius: 4px; /* Rounded corners */
+    transition: background-color 0.3s; /* Smooth background change */
+}
+
+.navbar-item a:hover {
+    background-color: #555; /* Background color on hover */
+}
