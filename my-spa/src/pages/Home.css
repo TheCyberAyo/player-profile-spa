@@ -4,7 +4,7 @@
     background-repeat: no-repeat; /* Optional: prevent repeating */
     background-position: center; /* Optional: center the image */
     height: 100vh; /* Optional: adjust height as needed */
-    color: white; /* Optional: text color for better visibility */
+    color: Black; 
     display: flex;
     align-items: center;
     justify-content: center;
